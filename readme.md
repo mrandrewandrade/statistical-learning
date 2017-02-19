@@ -9,7 +9,7 @@ Similar to the ISLR book, it is expected that the reader will have had at least 
 
 Why read this guide and learn statistical learning?  What about the buzz words?  What about learning data mining, business analytics, machine learning, artificial intelligence, data science, deep learning?  Heck, machines are "learning to learn" on their own so why even learn this?
 
-![](../figures/data-mining.png)
+![](https://raw.githubusercontent.com/mrandrewandrade/stat-learning-python/master/figures/data-mining.png)
 
 These notebooks and the original book helps set the foundation to learn all of all of those hot buzzwords, as statistics and probability along with linear algebra, calculus, and computer science are the basis for the next hot data related thing.  The book provides a foundation on the applied statistics side.  The goal for many of you might be to set the foundation for becoming a data scientist.  Now, what is a data scientist you say?  Media will tell you that being a data scientist is one of the hottest jobs in the 21st century, but what is it actually?
 
